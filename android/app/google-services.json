@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "39332769629",
+    "project_id": "truubluedev",
+    "storage_bucket": "truubluedev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39332769629:android:f663efe884f6ebaeeec2b4",
+        "android_client_info": {
+          "package_name": "com.instaflutter.dating.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39332769629-ghg2f4pjb4sepkucju8s85u1kt17e635.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEkRSDU4y_CGcmy-1QaThQ1T3rqqQh7pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39332769629-ghg2f4pjb4sepkucju8s85u1kt17e635.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39332769629:android:df52491c23e07e76eec2b4",
+        "android_client_info": {
+          "package_name": "com.truublue.dating.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39332769629-ghg2f4pjb4sepkucju8s85u1kt17e635.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEkRSDU4y_CGcmy-1QaThQ1T3rqqQh7pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39332769629-ghg2f4pjb4sepkucju8s85u1kt17e635.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
